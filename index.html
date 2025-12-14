@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>אור בחושך – מפת 8 הנרות | LightFlow</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <h1>אור בחושך – סדרת חנוכה × פרשת מקץ</h1>
+    <p>LightFlow · שמונת ימים של אור גדל, מהבור של יוסף ועד אור שאין לו גבול</p>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div>
+        <p class="badge">🎯 חזון השבוע</p>
+        <h2>מעבר מחושך לאור – התמדה, אמונה והדלקה יומיומית</h2>
+        <p>"מקץ שנתיים ימים" הוא הרגע שבו החושך מגיע לקצהו. חנוכה מזמין אותנו להדליק נר אחד קטן ולהאמין שהתנועה תתרחב
+          מיום ליום.</p>
+        <div class="flow">
+          <span>חושך → אמונה → התמדה</span>
+          <span>חכמה → השפעה → אחדות</span>
+          <span>אור שאין לו גבול</span>
+        </div>
+      </div>
+      <img src="assets/candle.svg" alt="אייקון נר זהוב" />
+    </section>
+
+    <section class="section">
+      <h2>🧭 תוכנית־על ולו״ז</h2>
+      <p>כל יום בנוי משלושה רגעים: בוקר (אור פנימי), צהריים (אור מחשבתי), ערב (אור גלוי והדלקה).</p>
+      <div class="schedule">
+        <div class="slot">
+          <strong>07:30 · פוסט בוקר</strong>
+          <p>פסוק יומי + תובנה קצרה שמדליקה את הפנימיות.</p>
+        </div>
+        <div class="slot">
+          <strong>13:30 · עומק צהריים</strong>
+          <p>חיבור לפרשת מקץ ולמסע יוסף – לשכלל אמונה עם חכמה.</p>
+        </div>
+        <div class="slot">
+          <strong>19:00 · נרות ומאמר ערב</strong>
+          <p>משמעות הנר של היום, פזמון ראפ, וקריאה לפעולה מעשית.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>🕯️ מפת 8 הנרות</h2>
+      <p>השראה מתוך README: יוסף בבור → סבלנות → זהות → חכמה → השפעה → שפע → אחדות → אור נצחי.</p>
+      <div id="candles" class="grid"></div>
+    </section>
+
+    <section class="section">
+      <h2>🎤 פזמון ראפ – חנוכה × מקץ</h2>
+      <div class="rap">
+        <p>בחושך של מצרים נר קטן דולק,<br />יוסף בבור אבל הלב לא מתפרק.<br />כל נר זה צעד, כל צעד זה אור,<br />מקץ בא
+          ללמד – אין סוף לא ברור.</p>
+      </div>
+      <a class="cta" href="#candles">למעבר מהיר לנרות »</a>
+    </section>
+
+    <section class="section">
+      <h2>🔍 איך להשתמש באתר</h2>
+      <ul>
+        <li>בחרו את יום החנוכה מתוך מפת הנרות.</li>
+        <li>גלו בוקר/צהריים/ערב, פזמון וקריאה לפעולה.</li>
+        <li>השתמשו בקישורי הניווט כדי לעבור קדימה ואחורה.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    ✍️ עריכה ותוכן: משה לאון יעקובוב – AnLoMinus · LightFlow · "נר ה׳ נשמת אדם"
+  </footer>
+
+  <script>
+    async function renderCandles() {
+      try {
+        const res = await fetch('data/days.json');
+        const data = await res.json();
+        const grid = document.getElementById('candles');
+        data.days.forEach(day => {
+          const card = document.createElement('article');
+          card.className = 'card';
+          card.innerHTML = `
+            <p class="badge">יום ${day.day}</p>
+            <h3>${day.name}</h3>
+            <p>${day.focus}</p>
+            <a class="cta" href="${day.slug}">לקריאה »</a>
+          `;
+          grid.appendChild(card);
+        });
+      } catch (e) {
+        console.error('Failed to load day metadata', e);
+      }
+    }
+    renderCandles();
+  </script>
+</body>
+
+</html>
