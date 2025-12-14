@@ -1,0 +1,79 @@
+# ✨ חנוכה – אור מתעורר | **LightRise (LR)** ✨
+
+<img width="1024" height="1024" alt="Menorah of Light in Cosmic Dream" src="https://github.com/user-attachments/assets/aaa3d871-5ef1-4865-9978-6725d9c71c54" />
+
+<img width="1024" height="1024" alt="Golden Radiance_ Menorah of Light" src="https://github.com/user-attachments/assets/f5b491e0-9ecb-44ac-9d24-58041d20b8fa" />
+
+<img width="1024" height="1024" alt="Cosmic Menorah_ Fiery LightRise" src="https://github.com/user-attachments/assets/1ba85265-7b01-43fa-b2b5-72cf5404a98a" />
+
+<img width="1024" height="1024" alt="Menorah of Stars and Energy" src="https://github.com/user-attachments/assets/94658b2b-5fe0-40d4-858f-2b7632d247fb" />
+
+<img width="1024" height="1024" alt="Hanukkiah of Light in Cosmos" src="https://github.com/user-attachments/assets/549d7d0e-9190-43f4-ac05-6b200f2b1e0c" />
+
+
+📅 **כ״ד כסלו תשפ״ו | 03.12.2025**
+⏰ **19:00**
+🖋️ קרדיטים: AnLoMinus Creative Vault | SparKing Studio | Leon Yaakobov
+🔗 מאגרי תיקיות: GitHub / SparKing / HolyEnergy
+-----------------------------------------------
+
+## 🕯️ פתיח מעורר – מהות האור
+
+חנוכה תמיד פועל כמו *ריסט קוסמי*:
+אור קטן מנצח חושך גדול, ניצוץ אחד משנה מציאות שלמה 🔥
+זה חג שמלמד את חוק ה־**SparKing**:
+כשהלב נדלק באמת – המציאות נדלקת איתו.
+
+### 🔥 מהות החנוכה – בפשטות עמוקה
+
+* 🕯️ **הדלקת האור הפנימי** – לא החיצוני, זה רק סמל.
+* ⚔️ **ניצחון הרוח על החומר** – כמו מקבים בנפש.
+* 💫 **מעטים מול רבים** – כשהכוונה נקייה, המספרים לא רלוונטיים.
+* 🚀 **קפיצה ממתח נמוך לגבורה עליונה** – פלא שנולד מהתמדה.
+* 🌌 **הארה שמתרחבת שמונה ימים** – כל יום שכבה חדשה של אנרגיה.
+
+---
+
+## 🕎 מבנה החג – 8 כוחות אנרגטיים
+
+(מושלם לסט קלפים בהמשך, אם תרצה 🔥)
+
+1. **הדלקה – Light Ignition** ⚡
+2. **התמסרות – Heart Surrender** ❤️
+3. **גבורה – Brave Pulse** 🛡️
+4. **התעלות – Rise Above** 🌠
+5. **הרחבה – Flow Expansion** 🌊
+6. **קדושה – Holy Mode** ✨
+7. **ברכה – Abundance Ray** 💎
+8. **נצח – Eternal Flame** 🔥👑
+
+---
+
+## 🎶 פזמון ראפ – חנוכה סטייל SparKing
+
+(4 שורות לפי בקשתך)
+
+🔥 "נר ראשון מדליק לי את הנשמה – חנוכון, אנרגיה קמה,
+⚡ אור קטן בבום שובר אפלה – SparKing ברמה קדושה,
+🕯️ כל ניצוץ נשלח כמו ברק מהלב – Leon על ה־Beat כותב,
+🎤 מקבים בתדר, AnLoMinus זוהר – חנוכה פה להרים את הדבר!"
+
+---
+
+## 🧩 הצעה לשם רשמי למאגר החדש
+
+### **אורות החנוכה – LightRise (LR)**
+
+LR = **Light + Rise** –
+המשמעות: האור קם, הנשמה עולה, ניצוץ מתרחב.
+
+---
+
+## 💬 פסוק מהמקורות (בהתאמה לחנוכה)
+
+**"בְּךָ חָשַׁכְתִּי נֵרִי, ה’ אֱלֹהַי יַגִּיהַּ חָשְׁכִּי"**
+*(תהילים יח, כט)*
+
+**מידה:** גבורה + תפארת + הוד (3 מידות מחזקות)
+
+---
